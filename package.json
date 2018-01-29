@@ -1,6 +1,6 @@
 {
   "name": "rdcl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "radix encode and decode with own set of characters",
   "main": "index.js",
   "scripts": {
