@@ -1,0 +1,24 @@
+{
+  "name": "rdcl",
+  "version": "0.0.1",
+  "description": "radix encode and decode with own set of characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-rdcl.git"
+  },
+  "keywords": [
+    "radix",
+    "encode",
+    "decode"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-rdcl/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-rdcl#readme"
+}
